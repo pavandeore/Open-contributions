@@ -5,5 +5,5 @@
 <li>CSS and its Styling quirks</li>
 <li>Javascript and DOM Manipulation</li>
 <li>APIs integration in Websites</li>
-<li>Bootstarp Stylings</li>
+<li>Bootstrap Stylings</li>
 </ul>
